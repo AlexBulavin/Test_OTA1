@@ -1,8 +1,8 @@
 #include "WiFi.h"
 #include "AsyncUDP.h"
 
-const char * ssid = "***********";
-const char * password = "***********";
+const char * ssid = "123";
+const char * password = "456********";
 
 AsyncUDP udp;
 
